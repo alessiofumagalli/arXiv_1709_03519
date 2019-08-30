@@ -1,7 +1,8 @@
 # Dual virtual element method for discrete fractures networks
 
 Source code and examples for the paper <br>
-"*Dual virtual element method in presence of an inclusion*" by Alessio Fumagalli. See [arXiv pre-print](https://arxiv.org/abs/1709.03519) or [journal article](https://www.sciencedirect.com/science/article/pii/S0893965918301812).
+"*Dual virtual element method in presence of an inclusion*" by Alessio Fumagalli.<br>
+See [arXiv pre-print](https://arxiv.org/abs/1709.03519) or [journal article](https://www.sciencedirect.com/science/article/pii/S0893965918301812).
 
 # Abstract
 We consider a Darcy problem for saturated porous media written in dual formulation in presence of a fully immersed inclusion. The lowest order virtual element method is employed to derive the discrete approximation. In the present work we study the effect of cells with cuts on the numerical solution, able to geometrically handle in a more natural way the inclusion tips. The numerical results show the validity of the proposed approach.
