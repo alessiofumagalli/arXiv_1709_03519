@@ -1,4 +1,4 @@
-# Dual virtual element method for discrete fractures networks
+# Dual virtual element method in presence of an inclusion
 
 Source code and examples for the paper <br>
 "*Dual virtual element method in presence of an inclusion*" by Alessio Fumagalli.<br>
